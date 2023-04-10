@@ -1,0 +1,9 @@
+{
+"name": "undertale soundtrack",
+"displayName": "UNDERTALE Soundtracks",
+"author": "SentinelDart",
+"description": "This mod plays the music of the famous videogame Undertale from toby fox.",
+"version": "1.0",
+"minGameVersion": "136",
+"hidden": true
+}
